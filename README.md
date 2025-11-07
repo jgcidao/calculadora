@@ -3,13 +3,14 @@ Este projeto implementa uma calculadora simples em Python, capaz de realizar as 
 O programa roda em um loop infinito, permitindo que o usuário execute várias operações consecutivas até encerrar o terminal manualmente.
 
 # Executando via arquivo .sh
-Dentro do arquivo calculadorapython.sh, coloque este conteúdo:
+1 - Dentro do arquivo calculadorapython.sh, coloque este conteúdo:
 
 #!/bin/bash
+
 python3 calculadorapython.py
 
 
-Salve o arquivo e, no terminal, dê permissão para executá-lo com o comando:
+2 - Salve o arquivo e, no terminal, dê permissão para executá-lo com o comando:
 
 chmod +x executar_calculadorapythona.sh
 
